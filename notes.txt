@@ -1,0 +1,12 @@
+
+
+So from the master branch
+
+git add -A
+git commit -m "message"
+git push
+
+git checkout gh-pages
+git merge master
+git push origin gh-pages
+git checkout master
