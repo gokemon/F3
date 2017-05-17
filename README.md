@@ -1,5 +1,9 @@
 # F3
 
+Five Freedoms Farm is about Animal rescue, care and adoption in partnership with the Deaf community.
+[http://www.fivefreedomsfarm.org/](http://www.fivefreedomsfarm.org/)
+
+Annie Rai is the designer and developer of the website project. Her work can be found here, [https://annierai.github.io/portfolionline/](https://annierai.github.io/portfolionline/)
 
 ----------
 
